@@ -1,4 +1,1 @@
-<<<<<<< master
-=======
 yeah
->>>>>>> testing2
